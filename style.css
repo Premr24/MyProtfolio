@@ -165,7 +165,6 @@ nav ul li a:hover {
 }
 .services-list div:hover {
     transform: scale(1.03);
-    /* box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2); */
     background-color: #1c3d4e;
 }    
 .services-list div i{
