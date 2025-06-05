@@ -188,3 +188,8 @@ nav ul li a i:hover {
     margin-top: 20px;
     display: inline-block;
 }
+
+/* -----portfolio----- */
+#portfolio {
+    padding: 50px 0;
+}
