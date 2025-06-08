@@ -128,7 +128,8 @@ nav ul li a i:hover {
 }
 .tab-titles {
     display: flex;
-    margin: 20px 0 40px;
+    margin: 20px 0 20px;
+    gap: 40px;
 }
 .tab-links {
     margin-right: 50px;
