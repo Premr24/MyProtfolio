@@ -77,10 +77,6 @@ nav ul li a i:hover {
     font-weight: 700;
     margin-top: 10px;
 }
-/* .header-text h1 span {
-    font-size: 80px;
-    color: #00abf0;
-} */
 .header-text h3{
     margin-top: 20px;
     font-size: 28px;
@@ -97,12 +93,10 @@ nav ul li a i:hover {
 /* ------about------- */
 #about {
     padding: 80px 0;
-    /* color: #87CEEB; */
 }
 .row {
     display: flex;
     justify-content: space-between;
-    /* align-items: center; */
     flex-wrap: wrap;
 }
 .about-col-1 {
@@ -263,7 +257,7 @@ nav ul li a i:hover {
     font-size: 30px;
     margin-right: 15px;
     color: #b0c4de;
-    display: inline-block;
+    display: inline;
     transition: transform 0.5s;
 }
 .socail-icons a:hover {
